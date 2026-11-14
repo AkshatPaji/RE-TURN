@@ -20,6 +20,8 @@ python -m pip install pygame
 python game.py
 ```
 
+OR directly run the game on [RE:TRUN](https://akshatpaji.itch.io/return)
+
 ## Controls
 
 | Key | Action |
